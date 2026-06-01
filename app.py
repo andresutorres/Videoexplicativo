@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Video Explicativo sobre el proyecto, Cazadores de trayectorias")
 st.write("En el siguiente video se explica la teoria del tema Tiro Parabólico y el funcionamiento del simulador.")
-st.write(Nota: El video es pesado, por lo tanto se debe esperar un tiempo prudente para que cargue completamente y se pueda visualizar.")
+st.write("Nota: El video es pesado, por lo tanto se debe esperar un tiempo prudente para que cargue completamente y se pueda visualizar.")
 
 
 # Cargar y reproducir el video
